@@ -1,7 +1,7 @@
-Contents : 
+Contents :  <br> 
 
-. Tittle with name and email 
-. Problem and Objective 
-. Project explanation code and schematic 
-. Continue Project explanation code and schematic 
+. Title with name and email  <br>  
+. Problem and Objective  <br> 
+. Project explanation code and schematic  <br> 
+. Continue Project explanation code and schematic  <br>  
 . Conclusion
